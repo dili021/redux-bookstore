@@ -167,7 +167,7 @@ Project Link: [https://github.com/dili021/redux-bookstore](https://github.com/di
 [stars-url]: https://github.com/dili021/redux-bookstore/stargazers
 [issues-shield]: https://img.shields.io/github/issues/dili021/redux-bookstore.svg?style=flat-square
 [issues-url]: https://github.com/dili021/redux-bookstore/issues
-[license-shield]: https://img.shields.io/github/license/dili021/redux-bookstore.svg?style=flat-square
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://github.com/dili021/redux-bookstore/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/dili021
