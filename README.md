@@ -46,7 +46,7 @@
     <a href="https://github.com/dili021/redux-bookstore"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/dili021/redux-bookstore">View Demo</a>
+    <a href="https://redux-bookstore-dili.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/dili021/redux-bookstore/issues">Report Bug</a>
     ·
@@ -70,7 +70,6 @@
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
-
 
 
 <!-- ABOUT THE PROJECT -->
