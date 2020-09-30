@@ -1,68 +1,175 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!--
+*** Thanks for checking out this README Template. If you have a suggestion that would
+*** make this better, please fork the redux-bookstore and create a pull request or simply open
+*** an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+***
+***
+***
+*** To avoid retyping too much info. Do a search and replace for the following:
+*** github_username, redux-bookstore, dilistefan, stefan.dili.021@gmail.com
+-->
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/dili021/redux-bookstore">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <h3 align="center">Redux Bookstore</h3>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+  <p align="center">
+    A React app created with Redux to handle global state management
+    <br />
+    <a href="https://github.com/dili021/redux-bookstore"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/dili021/redux-bookstore">View Demo</a>
+    ·
+    <a href="https://github.com/dili021/redux-bookstore/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/dili021/redux-bookstore/issues">Request Feature</a>
+  </p>
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Built With
 
-### Code Splitting
+* React
+* Redux
+* create-react-app
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+<!-- GETTING STARTED -->
+## Getting Started
 
-### Making a Progressive Web App
+To get a local copy up and running follow these simple steps.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+### Prerequisites
 
-### Advanced Configuration
+* npm
+```sh
+npm install npm@latest -g
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### Installation
 
-### Deployment
+1. Clone the redux-bookstore
+```sh
+git clone https://github.com/dili021/redux-bookstore.git
+```
+2. Install NPM packages
+```sh
+npm install
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/dili021/redux-bookstore/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@dilistefan](https://twitter.com/dilistefan) - stefan.dili.021@gmail.com
+
+Project Link: [https://github.com/dili021/redux-bookstore](https://github.com/dili021/redux-bookstore)
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* []()
+* []()
+* []()
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/dili021/redux-bookstore.svg?style=flat-square
+[contributors-url]: https://github.com/dili021/redux-bookstore/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dili021/redux-bookstore.svg?style=flat-square
+[forks-url]: https://github.com/dili021/redux-bookstore/network/members
+[stars-shield]: https://img.shields.io/github/stars/dili021/redux-bookstore.svg?style=flat-square
+[stars-url]: https://github.com/dili021/redux-bookstore/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dili021/redux-bookstore.svg?style=flat-square
+[issues-url]: https://github.com/dili021/redux-bookstore/issues
+[license-shield]: https://img.shields.io/github/license/dili021/redux-bookstore.svg?style=flat-square
+[license-url]: https://github.com/dili021/redux-bookstore/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/dili021
+[product-screenshot]: images/screenshot.png
+>>>>>>> cfd137faea08fb775ca0816b31e554f94fbb6546
