@@ -140,7 +140,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@dilistefan](https://twitter.com/dilistefan) - stefan.dili.021@gmail.com
+[@dilistefan](https://twitter.com/dilistefan) - stefan.dili.021@gmail.com
 
 Project Link: [https://github.com/dili021/redux-bookstore](https://github.com/dili021/redux-bookstore)
 
@@ -172,4 +172,4 @@ Project Link: [https://github.com/dili021/redux-bookstore](https://github.com/di
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/dili021
 [product-screenshot]: images/screenshot.png
->>>>>>> cfd137faea08fb775ca0816b31e554f94fbb6546
+
