@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import Book from '../components/Book';
 import { removeBook, changeFilter } from '../actions/index';
 import CategoryFilter from '../components/CategoryFilter';
+import logo from '../assets/logo.svg';
 
 class BooksList extends Component {
   constructor(props) {
@@ -28,17 +29,23 @@ class BooksList extends Component {
 
     return (
       <div className="wrapper">
-        <CategoryFilter handleChange={this.filterBooks} />
-        <table className="books">
-          <thead>
-            <tr>
-              <th>ID</th>
-              <th>Title</th>
-              <th>Category</th>
-              <th>Remove Book</th>
-            </tr>
-          </thead>
-          <tbody>
+        <header>
+          <div className="title">
+            <h1>
+              Bookstore CMS
+              {' '}
+              <span className="books">Books</span>
+            </h1>
+            <div className="categories">
+              <CategoryFilter handleChange={this.filterBooks} />
+            </div>
+          </div>
+          <div className="logo-wrap">
+            <img src={logo} alt="logo" className="logo" />
+          </div>
+        </header>
+        <main>
+          <div className="books-list">
             {filteredBooks.map(book => (
               <Book
                 key={book.id}
@@ -46,8 +53,8 @@ class BooksList extends Component {
                 removeBookFromState={this.removeBookFromState}
               />
             ))}
-          </tbody>
-        </table>
+          </div>
+        </main>
       </div>
     );
   }

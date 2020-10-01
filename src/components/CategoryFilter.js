@@ -14,7 +14,7 @@ export const categories = [
 function CategoryFilter({ handleChange }) {
   return (
     <select id="category" onChange={e => handleChange(e)}>
-      <option value="All">All</option>
+      <option value="All">All Books</option>
       {categories.map(cat => <option key={cat} value={cat}>{cat}</option>)}
     </select>
   );

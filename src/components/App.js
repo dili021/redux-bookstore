@@ -1,13 +1,15 @@
 import React from 'react';
-import '../App.css';
+import '../App.scss';
 import BooksList from '../containers/BooksList';
 import BooksForm from '../containers/BooksForm';
 
 function App() {
   return (
-    <div>
-      <BooksList />
-      <BooksForm />
+    <div className="App">
+      <div className="wrapper">
+        <BooksList />
+        <BooksForm />
+      </div>
     </div>
   );
 }
