@@ -37,26 +37,6 @@ function Book({ book, removeBookFromState }) {
         <button type="button">Update Progress</button>
       </div>
     </div>
-  // <tr>
-  //   <td>
-  //     {id}
-  //   </td>
-  //   <td>
-  //     {title}
-  //   </td>
-  //   <td>
-  //     {category}
-  //   </td>
-  //   <td>
-  //     <button
-  //       type="button"
-  //       onClick={() => removeBookFromState(book)}
-  //     >
-  //       Delete Book
-
-  //     </button>
-  //   </td>
-  // </tr>
   );
 }
 
