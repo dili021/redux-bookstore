@@ -1,9 +1,14 @@
 import React from 'react';
 import '../App.css';
+import BooksList from '../containers/BooksList';
+import BooksForm from '../containers/BooksForm';
 
 function App() {
   return (
-    <h1>Redux!</h1>
+    <div>
+      <BooksList />
+      <BooksForm />
+    </div>
   );
 }
 
