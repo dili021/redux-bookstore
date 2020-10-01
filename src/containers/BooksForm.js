@@ -3,8 +3,8 @@ import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { createID } from '../initState';
 import { createBook } from '../actions/index';
+import { categories } from '../components/CategoryFilter';
 
-const categories = ['Action', 'Biography', 'History', 'Horror', 'Kids', 'Learning', 'Sci-Fi'];
 class BooksForm extends Component {
   constructor(props) {
     super(props);
