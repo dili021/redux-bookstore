@@ -3,7 +3,7 @@ const books = (books = [], { type, payload }) => {
     return [...books, payload];
   }
   if (type === 'REMOVE_BOOK') {
-    return books.filter(({ title }) => title !== payload.title);
+    return books.filter(({ id }) => id !== payload.id);
   }
   return books;
 };
