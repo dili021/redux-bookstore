@@ -4,18 +4,18 @@ export default {
   books: [
     {
       id: createID(),
-      title: 'Lord Of The Rings',
-      category: 'Fantasy',
+      title: 'Bhagavad Gita',
+      category: 'History',
     },
     {
       id: createID(),
-      title: 'Tao Te Ching',
-      category: 'Eastern Philosophy',
+      title: 'The Raven',
+      category: 'Horror',
     },
     {
       id: createID(),
       title: 'The Four Agreements',
-      category: 'Philosophy',
+      category: 'Learning',
     },
     {
       id: createID(),
@@ -23,4 +23,5 @@ export default {
       category: 'Biography',
     },
   ],
+  filter: 'All',
 };
