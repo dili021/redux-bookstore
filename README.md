@@ -35,18 +35,18 @@
 <br />
 <p align="center">
   <a href="https://github.com/dili021/redux-bookstore">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Redux Bookstore</h3>
+  <h3 align="center">Bookstore CMS</h3>
 
   <p align="center">
-    A React app created with Redux to handle global state management
+    A Bookstore CMS made with React and Redux. It uses Redux to handle global state.
     <br />
     <a href="https://github.com/dili021/redux-bookstore"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/dili021/redux-bookstore">View Demo</a>
+    <a href="https://redux-bookstore-dili.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/dili021/redux-bookstore/issues">Report Bug</a>
     ·
@@ -72,17 +72,18 @@
 - [Acknowledgements](#acknowledgements)
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![image](https://user-images.githubusercontent.com/55356496/94822834-63c1f280-0403-11eb-8d64-d1e10501c806.png)
 
 ### Built With
 
 * React
 * Redux
 * create-react-app
+* Heroku
+* Sass
 
 
 
@@ -149,9 +150,9 @@ Project Link: [https://github.com/dili021/redux-bookstore](https://github.com/di
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Microverse](https://microverse.org)
+* [React](https://reactjs.org)
+* [Redux](https://redux.js.org)
 
 
 
